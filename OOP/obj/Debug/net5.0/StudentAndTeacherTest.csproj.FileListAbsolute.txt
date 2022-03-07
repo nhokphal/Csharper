@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.exe
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.deps.json
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.runtimeconfig.json
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.runtimeconfig.dev.json
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.dll
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\ref\StudentAndTeacherTest.dll
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\bin\Debug\net5.0\StudentAndTeacherTest.pdb
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.AssemblyInfo.cs
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.dll
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\ref\StudentAndTeacherTest.dll
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.pdb
+C:\Users\USER\source\repos\StudentAndTeacherTest\StudentAndTeacherTest\obj\Debug\net5.0\StudentAndTeacherTest.genruntimeconfig.cache
