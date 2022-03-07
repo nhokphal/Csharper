@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.exe
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.deps.json
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.runtimeconfig.json
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.runtimeconfig.dev.json
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.dll
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\ref\PhotoBookTest.dll
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\bin\Debug\net5.0\PhotoBookTest.pdb
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.AssemblyInfo.cs
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.dll
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\ref\PhotoBookTest.dll
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.pdb
+C:\Users\USER\source\repos\PhotoBookTest\PhotoBookTest\obj\Debug\net5.0\PhotoBookTest.genruntimeconfig.cache
